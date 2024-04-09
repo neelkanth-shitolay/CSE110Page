@@ -18,8 +18,13 @@ I love using various heading levels to organize my content.
 - [x] Finish **Lab 1**
 - [ ] Meet *new* people through the course and improve my software skills
 
-### Favorite Quotes
+### Favorite Quote
 > "You miss 100% of the shots you don't take." - Michael Jordan
+
+### Favorite Colors
+- Orange
+* Blue
++ Green
 
 ### My first code that I wrote
 Here's the Java code I wrote for the first time:
