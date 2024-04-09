@@ -7,8 +7,8 @@ Hello, I'm Neelkanth! I'm a Computer Engineering student passionate about softwa
 
 
 ## Basic Information
-1. I am from Cupertino, California, home of Apple. You can learn more about the company [here](https://www.apple.com/).
-2. Some of my hobbies include: [running, swimming, and watching football]
+1. I am from Cupertino, *CA*, home of **Apple**. You can learn more about the company [here](https://www.apple.com/).
+2. Some of my hobbies include: running, swimming, and watching football
 
 
 
