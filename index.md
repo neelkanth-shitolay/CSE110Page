@@ -12,6 +12,10 @@ Hello, I'm [Neelkanth]! I'm a Computer Engineering student passionate about [sof
 ### Headings
 I love using various heading levels to organize my content.
 
+### Tasks I hope to accomplish this quarter
+- [x] Finish **Lab 1**_
+- [ ] Meet *new* people through the course and improve my software skills
+
 ### Styling Text
 **Bold**, *italic*, and ~~strikethrough~~ are some of my favorite tools when writing essays and research papers.
 
@@ -22,3 +26,4 @@ I love using various heading levels to organize my content.
 Here's the Java code I wrote for the first time:
 ```java
 System.out.println("Hello, this is Neelkanth!");
+
