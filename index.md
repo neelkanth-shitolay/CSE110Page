@@ -1,13 +1,14 @@
 # About Me
+![Profile Picture](pfp.jpeg)
+
 
 ## Background
 Hello, I'm [Neelkanth]! I'm a Computer Engineering student passionate about [software engineering]. So far in the course I have created [README.md](README.md) and worked with git. 
 
 
 ## Basic Information
-1. ![Profile Picture](pfp.jpeg)
-2. I am from Cupertino, California, home of Apple. You can learn more about the company [here](https://www.apple.com/).
-3. Some of my hobbies include: [running, swimming, and watching football]
+1. I am from Cupertino, California, home of Apple. You can learn more about the company [here](https://www.apple.com/).
+2. Some of my hobbies include: [running, swimming, and watching football]
 
 
 
