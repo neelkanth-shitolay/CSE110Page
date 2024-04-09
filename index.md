@@ -1,7 +1,8 @@
 # About Me
 
 ## Background
-Hello, I'm [Neelkanth]! I'm a Computer Engineering student passionate about [software engineering]. 
+Hello, I'm [Neelkanth]! I'm a Computer Engineering student passionate about [software engineering]. So far in the course I have created [Link to README.md](README.md).
+
 
 ## Basic Information
 1. ![Profile Picture](link_to_your_profile_picture)
