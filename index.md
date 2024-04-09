@@ -5,7 +5,7 @@ Hello, I'm [Neelkanth]! I'm a Computer Engineering student passionate about [sof
 
 ## Basic Information
 - ![Profile Picture](link_to_your_profile_picture)
-- I am from [Cupertino, California], home of Apple. 
+- I am from [Cupertino, California], home of Apple. You can learn more about the company [here](https://www.apple.com/).
 - Some of my hobbies include: [running, swimming, and watching football]
 
 ## Core Markdown Constructs
