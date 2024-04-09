@@ -12,9 +12,7 @@ Hello, I'm [Neelkanth]! I'm a Computer Engineering student passionate about [sof
 
 
 
-## Core Markdown Constructs
-### Headings
-I love using various heading levels to organize my content.
+## General
 
 ### Tasks I hope to accomplish this quarter
 - [x] Finish **Lab 1**
