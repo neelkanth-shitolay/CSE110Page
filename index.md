@@ -3,7 +3,7 @@
 
 
 ## Background
-Hello, I'm [Neelkanth]! I'm a Computer Engineering student passionate about [software engineering]. So far in the course I have created [README.md](README.md) and worked with git. 
+Hello, I'm Neelkanth! I'm a Computer Engineering student passionate about software engineering. So far in the course, I have created the file, [README.md](README.md) and worked with git. 
 
 
 ## Basic Information
